@@ -1,0 +1,1994 @@
+@media only screen and (max-width:1280px) {
+    .sticky-2 .nav-item {
+        margin-left: 0
+    }
+
+    .sticky-2 .download-cv-btn {
+        left: 1060px
+    }
+
+    .main-logo {
+        margin-top: 20px;
+        margin-left: 30px
+    }
+
+    nav {
+        height: 100px
+    }
+
+    .nav-item {
+        margin-top: 40px
+    }
+
+    .download-cv-btn {
+        top: 30px
+    }
+
+    .head-img {
+        margin-right: 100px;
+        margin-top: 40px
+    }
+
+    .main-heading {
+        top: 220px;
+        left: 100px
+    }
+
+    .see-more-btn:link,
+    .see-more-btn:visited {
+        margin-top: 450px;
+        margin-left: 70px
+    }
+
+    .profile-image {
+        margin: 76px 0 0 50px
+    }
+
+    .about-col2 h1 {
+        padding: 40px 180px 0 50px
+    }
+
+    .project-image-1:hover a,
+    .project-image-1:visited a {
+        padding: 10px 67% 12px 2%;
+        bottom: -20px
+    }
+
+    .project-image-2:hover a,
+    .project-image-2:visited a {
+        padding: 10px 67% 12px 2%;
+        bottom: -20px
+    }
+
+    .project-image-3:hover a,
+    .project-image-3:visited a {
+        padding: 10px 67% 12px 2%;
+        bottom: -20px
+    }
+
+    .project-image-4:hover a,
+    .project-image-4:visited a {
+        padding: 10px 67% 12px 2%;
+        bottom: -20px
+    }
+
+    .project-image-5:hover a,
+    .project-image-5:visited a {
+        padding: 10px 67% 12px 2%;
+        bottom: -20px
+    }
+
+    .project-image-6:hover a,
+    .project-image-6:visited a {
+        padding: 10px 67% 12px 2%;
+        bottom: -20px
+    }
+
+    .phone-number-label {
+        right: 130px
+    }
+
+    .phone-number:focus~.phone-number-label,
+    .phone-number:not(:placeholder-shown).phone-number:not(:focus)~.phone-number-label {
+        margin-right: 34px
+    }
+}
+
+@media only screen and (max-width:1200px) {
+
+    body,
+    html {
+        font-size: 16px !important
+    }
+
+    .sticky-2 .nav-item {
+        margin-left: 0
+    }
+
+    .sticky-2 .download-cv-btn {
+        left: 810px
+    }
+
+    header {
+        height: 100%
+    }
+
+    .main-logo {
+        height: 42%;
+        margin-top: 24px;
+        margin-left: 30px
+    }
+
+    nav {
+        height: 120px
+    }
+
+    .nav-item {
+        margin-top: 40px
+    }
+
+    .nav-item li {
+        margin-left: 30px
+    }
+
+    .download-cv-btn {
+        top: 28px
+    }
+
+    .download-cv-btn ion-icon {
+        font-size: 18px;
+        top: 10px
+    }
+
+    .head-img {
+        width: 63%;
+        margin-right: 10px;
+        margin-top: 0;
+        margin-bottom: 50px
+    }
+
+    .main-heading {
+        width: 550px;
+        top: 230px;
+        left: 40px !important
+    }
+
+    header h1 {
+        font-size: 52px;
+        line-height: 52px
+    }
+
+    header h1 span::after {
+        height: 4px;
+        width: 266px;
+        margin-right: 62px;
+        margin-top: -12px;
+        margin-bottom: 0 !important
+    }
+
+    .main-heading h6 {
+        font-size: 16px;
+        padding-top: 30px
+    }
+
+    .see-more-btn:link,
+    .see-more-btn:visited {
+        margin-top: 446px;
+        margin-left: 10px;
+        font-weight: 600 !important;
+        padding: 12px 48px 12px 38px
+    }
+
+    .see-more-btn ion-icon {
+        top: 16px;
+        right: 26px;
+        font-size: 18px
+    }
+
+    .hire-me-btn:link,
+    .hire-me-btn:visited {
+        margin-top: -172px;
+        margin-left: 220px;
+        font-weight: 600 !important;
+        padding: 12px 50px 12px 50px
+    }
+
+    .love-attract-sec {
+        margin-top: 180px
+    }
+
+    .attract-img img {
+        height: auto;
+        width: 52%;
+        margin-left: 130px
+    }
+
+    .attract-text h3 {
+        padding: 40px 0 0 40px !important
+    }
+
+    .attract-text p {
+        padding: 0 100px 0 40px !important
+    }
+
+    .love-fast-sec {
+        margin-top: 180px
+    }
+
+    .fast-img img {
+        height: auto;
+        width: 64%;
+        margin-left: 50px
+    }
+
+    .fast-text h3 {
+        padding: 120px 0 0 120px !important
+    }
+
+    .fast-text p {
+        padding: 0 20px 0 120px !important
+    }
+
+    .love-review-sec {
+        margin-top: 260px
+    }
+
+    .review-img img {
+        height: auto;
+        width: 58%;
+        margin-left: 120px
+    }
+
+    .review-text h3 {
+        padding: 40px 0 0 40px !important
+    }
+
+    .review-text p {
+        padding: 0 100px 0 40px !important
+    }
+
+    .love-Experience-sec {
+        margin-top: 200px;
+        margin-bottom: 120px
+    }
+
+    .Experience-img img {
+        height: auto;
+        width: 58%;
+        margin-left: 60px
+    }
+
+    .Experience-text {
+        color: #fff;
+        text-align: left
+    }
+
+    .Experience-text h3 {
+        padding: 90px 0 0 120px !important
+    }
+
+    .Experience-text p {
+        padding: 0 20px 0 120px !important
+    }
+
+    .about-section {
+        height: 800px
+    }
+
+    .about-col1 {
+        height: 800px !important;
+        background-image: url(../../resources/img/software-developer-g176f242f9_1920.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        background-attachment: fixed
+    }
+
+    .about-col2 {
+        height: 800px !important
+    }
+
+    .profile-image {
+        margin: 80px 0 0 50px
+    }
+
+    .about-col2 h1 {
+        padding: 40px 80px 0 50px
+    }
+
+    .about-col2 p {
+        padding: 30px 80px 0 50px
+    }
+
+    .project-section {
+        height: 850px
+    }
+
+    .project-col {
+        height: 420px;
+        margin-top: 40px !important
+    }
+
+    .pr1{
+        margin-bottom: 0px !important;
+    }
+
+    .project-col a:link,
+    .project-col a:visited {
+        padding: 10px 62% 12px 2%
+    }
+
+    .project-col ion-icon {
+        font-size: 26px;
+        float: right;
+        position: absolute;
+        right: 6px
+    }
+
+    .project-image-1:hover a,
+    .project-image-1:visited a {
+        padding: 10px 62% 12px 2%;
+        bottom: -20px
+    }
+
+    .project-image-2:hover a,
+    .project-image-2:visited a {
+        padding: 10px 62% 12px 2%;
+        bottom: -20px
+    }
+
+    .project-image-3:hover a,
+    .project-image-3:visited a {
+        padding: 10px 62% 12px 2%;
+        bottom: -20px
+    }
+
+    .project-image-4:hover a,
+    .project-image-4:visited a {
+        padding: 10px 62% 12px 2%;
+        bottom: -20px
+    }
+
+    .project-image-5:hover a,
+    .project-image-5:visited a {
+        padding: 10px 62% 12px 2%;
+        bottom: -20px
+    }
+
+    .project-image-6:hover a,
+    .project-image-6:visited a {
+        padding: 10px 62% 12px 2%;
+        bottom: -20px
+    }
+
+    .contact-section {
+        background-repeat: no-repeat;
+        background-size: 108%;
+        margin-bottom: 300px;
+        margin-top: 550px !important;
+    }
+
+    .phone-number-label {
+        right: 90px
+    }
+
+    .footer-logo a {
+        margin-left: 30px
+    }
+
+    .fb {
+        margin-right: 30px !important
+    }
+}
+
+@media only screen and (max-width:1023px) {
+
+    body,
+    html {
+        font-size: 14px !important
+    }
+
+    .sticky-2 .main-logo {
+        margin-top: 8px !important
+    }
+
+    .sticky-2 .menu__toggler {
+        top: 16px
+    }
+
+    .menu__toggler {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        z-index: 999;
+        height: 28px;
+        width: 28px;
+        outline: 0;
+        cursor: pointer;
+        display: flex;
+        align-items: center
+    }
+
+    .menu__toggler span,
+    .menu__toggler span::after,
+    .menu__toggler span::before {
+        position: absolute;
+        content: '';
+        width: 28px;
+        height: 2.5px;
+        background: #fafafa;
+        border-radius: 20px;
+        transition: .5s cubic-bezier(.77, 0, .175, 1)
+    }
+
+    .menu__toggler span::before {
+        top: -8px
+    }
+
+    .menu__toggler span::after {
+        top: 8px
+    }
+
+    .menu__toggler.active>span {
+        background: 0 0
+    }
+
+    .menu__toggler.active>span::after,
+    .menu__toggler.active>span::before {
+        background: #ffff;
+        top: 0
+    }
+
+    .menu__toggler.active>span::before {
+        -webkit-transform: rotate(-225deg);
+        transform: rotate(-225deg)
+    }
+
+    .menu__toggler.active>span::after {
+        -webkit-transform: rotate(225deg);
+        transform: rotate(225deg)
+    }
+
+    .menu {
+        position: absolute;
+        left: -350px;
+        z-index: 998;
+        color: #ffff;
+        background: linear-gradient(to bottom, rgba(170, 20, 152, 255), rgba(90, 162, 229, 255));
+        -webkit-clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
+        clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
+        width: 350px;
+        height: 100vh;
+        padding: 70px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        transition: .3s left cubic-bezier(.77, 0, .175, 1);
+        overflow: scroll !important
+    }
+
+    .menu p {
+        display: block
+    }
+
+    .menu.active {
+        left: 0
+    }
+
+    .menu p {
+        margin-bottom: 2rem
+    }
+
+    .menu p a:link,
+    .menu p a:visited {
+        text-decoration: none;
+        color: #ffff;
+        font-size: 16px
+    }
+
+    .menu p::after {
+        content: " ";
+        display: block;
+        width: 60%;
+        height: 2px;
+        background-color: #62d9f0;
+        border-radius: 2px;
+        box-shadow: 6px 10px 10px 0 #8cf0ff93;
+        transition: all .4s;
+        margin-top: 4px
+    }
+
+    .menu p:active::after,
+    .menu p:hover::after {
+        height: 2px;
+        width: 60%;
+        display: block;
+        background-color: #920864;
+        box-shadow: 2px 2px 20px 0 #4e0335
+    }
+
+    header {
+        height: 900px
+    }
+
+    .main-logo {
+        height: 44% !important;
+        margin-top: 16px !important;
+        float: right !important;
+        margin-right: 10px
+    }
+
+    .nav-inner {
+        display: none !important
+    }
+
+    .head-img {
+        width: 80%;
+        margin-right: 10px;
+        margin-top: 20px
+    }
+
+    .main-heading {
+        width: 300px;
+        top: 220px;
+        left: 50px !important
+    }
+
+    header h1 {
+        font-size: 48px;
+        line-height: 54px
+    }
+
+    header h1 span::after {
+        height: 4px;
+        width: 246px;
+        margin-right: 52px;
+        margin-top: -12px;
+        margin-bottom: 0 !important
+    }
+
+    .main-heading h6 {
+        font-size: 14px;
+        padding-top: 30px
+    }
+
+    .see-more-btn:link,
+    .see-more-btn:visited {
+        margin-top: -90px;
+        margin-left: 30px
+    }
+
+    .see-more-btn ion-icon {
+        top: 15px;
+        font-size: 18px
+    }
+
+    .hire-me-btn:link,
+    .hire-me-btn:visited {
+        margin-top: -90px
+    }
+
+    .things-ilove-section {
+        padding-bottom: 180px
+    }
+
+    .things-ilove-section h1 {
+        margin-top: 150px !important;
+        font-size: 48px
+    }
+
+    .things-ilove-section h1::after {
+        height: 4px;
+        width: 80px;
+        margin-top: 16px !important
+    }
+
+    .love-attract-sec {
+        margin-top: 160px
+    }
+
+    .attract-img img {
+        width: 68%;
+        margin-left: 80px
+    }
+
+    .attract-text h3 {
+        padding: 50px 0 0 20px !important
+    }
+
+    .attract-text p {
+        padding: 0 54px 0 20px !important
+    }
+
+    .love-fast-sec {
+        margin-top: 220px
+    }
+
+    .fast-img img {
+        width: 78%;
+        margin-left: 40px
+    }
+
+    .fast-text h3 {
+        padding: 108px 0 0 70px !important
+    }
+
+    .fast-text p {
+        padding: 0 0 0 70px !important
+    }
+
+    .love-review-sec {
+        margin-top: 220px
+    }
+
+    .review-img img {
+        height: auto;
+        width: 72%;
+        margin-left: 70px
+    }
+
+    .review-text {
+        color: #fff;
+        text-align: left
+    }
+
+    .review-text h3 {
+        padding: 60px 0 0 20px !important
+    }
+
+    .review-text p {
+        padding: 0 54px 0 20px !important
+    }
+
+    .love-Experience-sec {
+        margin-top: 230px
+    }
+
+    .Experience-img img {
+        height: auto;
+        width: 75%;
+        margin-left: 24px;
+        margin-bottom: 100px
+    }
+
+    .Experience-text {
+        color: #fff;
+        text-align: left
+    }
+
+    .Experience-text h3 {
+        padding: 84px 0 0 70px !important
+    }
+
+    .Experience-text p {
+        padding: 0 0 0 70px !important
+    }
+
+    .about-section {
+        height: 700px;
+        margin-bottom: 0
+    }
+
+    .profile-image {
+        margin: 60px 0 0 50px
+    }
+
+    .about-col1 {
+        height: 700px !important;
+        background-image: url(../../resources/img/software-developer-g176f242f9_1920.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        background-attachment: fixed
+    }
+
+    .about-col2 {
+        height: 700px !important
+    }
+
+    .profile-image {
+        width: 180px;
+        margin: 50px 0 0 30px
+    }
+
+    .about-col2 h1 {
+        padding: 40px 100px 0 30px
+    }
+
+    .about-col2 h5::after {
+        width: 50%
+    }
+
+    .about-col2 h5 {
+        padding: 20px 0 0 30px
+    }
+
+    .about-col2 p {
+        padding: 30px 20px 0 30px
+    }
+
+    .project-section {
+        height: 1100px;
+        background: linear-gradient(to right, rgba(0, 0, 0, .9), rgba(0, 0, 0, .8)), url(../../resources/img/hosting3-home-section-bg.png);
+        background-repeat: no-repeat;
+        background-size: 110%
+    }
+
+    .project-col ion-icon {
+        font-size: 26px;
+        float: right;
+        position: absolute;
+        right: 20px;
+        top: 8px
+    }
+
+    .pr1{
+        margin-bottom: 0px;
+    }
+
+    .project-image-1:hover a,
+    .project-image-1:visited a {
+        text-decoration: none;
+        padding: 10px 70% 12px 2%;
+        border-radius: 0;
+        color: #0fd7ed;
+        background-color: #4747474a;
+        display: block;
+        bottom: -12px
+    }
+
+    .project-image-2:hover a,
+    .project-image-2:visited a {
+        text-decoration: none;
+        padding: 10px 70% 12px 2%;
+        border-radius: 0;
+        color: #0fd7ed;
+        background-color: #4747474a;
+        display: block;
+        bottom: -12px
+    }
+
+    .project-image-3:hover a,
+    .project-image-3:visited a {
+        text-decoration: none;
+        padding: 10px 70% 12px 2%;
+        border-radius: 0;
+        color: #0fd7ed;
+        background-color: #4747474a;
+        display: block;
+        bottom: -12px
+    }
+
+    .project-image-4:hover a,
+    .project-image-4:visited a {
+        text-decoration: none;
+        padding: 10px 70% 12px 2%;
+        border-radius: 0;
+        color: #0fd7ed;
+        background-color: #4747474a;
+        display: block;
+        bottom: -12px
+    }
+
+    .project-image-5:hover a,
+    .project-image-5:visited a {
+        text-decoration: none;
+        padding: 10px 70% 12px 2%;
+        border-radius: 0;
+        color: #0fd7ed;
+        background-color: #4747474a;
+        display: block;
+        bottom: -12px
+    }
+
+    .project-image-6:hover a,
+    .project-image-6:visited a {
+        text-decoration: none;
+        padding: 10px 70% 12px 2%;
+        border-radius: 0;
+        color: #0fd7ed;
+        background-color: #4747474a;
+        display: block;
+        bottom: -12px
+    }
+    .contact-section {
+        margin-top: 1100px !important;
+        margin-bottom: 300px
+    }
+
+    .contact-section h1 {
+        margin-top: 160px !important;
+        font-size: 42px
+    }
+
+    .contact-hero-line {
+        margin-bottom: 50px
+    }
+
+    .welcoming-col {
+        padding-top: 30px
+    }
+
+    .welcoming-card ion-icon {
+        font-size: 70px
+    }
+
+    .welcoming-card h4 {
+        margin-top: -20px
+    }
+
+    .welcoming-card p {
+        margin-top: -20px
+    }
+
+    .name-label {
+        top: 54px;
+        left: 40px
+    }
+
+    .name:focus~.name-label,
+    .name:not(:placeholder-shown).name:not(:focus)~.name-label {
+        margin-top: -22px
+    }
+
+    .phone-number-label {
+        right: 50px;
+        top: 124px
+    }
+
+    .phone-number:focus~.phone-number-label,
+    .phone-number:not(:placeholder-shown).phone-number:not(:focus)~.phone-number-label {
+        margin-top: -22px;
+        margin-right: 20px
+    }
+
+    .email-label {
+        top: 124px;
+        left: 40px
+    }
+
+    .email:focus~.email-label,
+    .email:not(:placeholder-shown).email:not(:focus)~.email-label {
+        margin-top: -22px
+    }
+
+    .message:focus~.message-label,
+    .message:not(:placeholder-shown).message:not(:focus)~.message-label {
+        margin-top: -30px
+    }
+
+    .footer-section {
+        height: 100px;
+        background-image: url(../../resources/img/hosting3-main-bg-slider.jpg);
+        background-repeat: no-repeat;
+        background-size: cover
+    }
+
+    .footer-logo a {
+        float: left;
+        margin-left: 10px;
+        margin-top: 26px
+    }
+
+    .footer-section p {
+        margin: 40px 0 0 20px;
+        float: left;
+        display: block
+    }
+
+    .footer-scrol-btn {
+        height: 48px;
+        width: 38px;
+        margin-left: 0;
+        margin-top: -26px
+    }
+
+    .footer-up1-i {
+        font-size: 26px
+    }
+
+    .footer-up2-i {
+        font-size: 26px
+    }
+
+    .footer-scrol-btn:active .footer-up1-i,
+    .footer-scrol-btn:hover .footer-up1-i {
+        transform: translateY(-2px)
+    }
+
+    .footer-scrol-btn:active .footer-up2-i,
+    .footer-scrol-btn:hover .footer-up2-i {
+        transform: translateY(2px)
+    }
+
+    .footer-visit a:link,
+    .footer-visit a:visited {
+        font-size: 20px
+    }
+
+    .fb {
+        margin-right: 20px !important
+    }
+}
+
+@media only screen and (max-width:767px) {
+
+    body,
+    html {
+        font-size: 12px !important
+    }
+
+    .menu__toggler {
+        position: absolute;
+        top: 16px !important;
+        left: 20px;
+        z-index: 999;
+        height: 18px !important;
+        width: 18px !important;
+        outline: 0;
+        cursor: pointer;
+        display: flex;
+        align-items: center
+    }
+
+    .menu__toggler span,
+    .menu__toggler span::after,
+    .menu__toggler span::before {
+        position: absolute;
+        content: '';
+        width: 18px !important;
+        height: 2.5px;
+        background: #fafafa;
+        border-radius: 20px;
+        transition: .5s cubic-bezier(.77, 0, .175, 1)
+    }
+
+    .menu__toggler span::before {
+        top: -8px
+    }
+
+    .menu__toggler span::after {
+        top: 8px
+    }
+
+    .menu__toggler.active>span {
+        background: 0 0
+    }
+
+    .menu__toggler.active>span::after,
+    .menu__toggler.active>span::before {
+        background: #ffff;
+        top: 0
+    }
+
+    .menu__toggler.active>span::before {
+        -webkit-transform: rotate(-225deg);
+        transform: rotate(-225deg)
+    }
+
+    .menu__toggler.active>span::after {
+        -webkit-transform: rotate(225deg);
+        transform: rotate(225deg)
+    }
+
+    .menu {
+        position: absolute;
+        left: -350px;
+        z-index: 998;
+        color: #ffff;
+        background: linear-gradient(to bottom, rgba(170, 20, 152, 255), rgba(90, 162, 229, 255));
+        -webkit-clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
+        clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
+        width: 350px;
+        height: 100vh;
+        padding: 70px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        transition: .3s left cubic-bezier(.77, 0, .175, 1);
+        overflow: scroll !important
+    }
+
+    .menu p {
+        display: block
+    }
+
+    .menu.active {
+        left: 0
+    }
+
+    .menu p {
+        margin-bottom: 1rem
+    }
+
+    .menu p a:link,
+    .menu p a:visited {
+        text-decoration: none;
+        color: #ffff;
+        font-size: 12px
+    }
+
+    .menu p::after {
+        content: " ";
+        display: block;
+        width: 60%;
+        height: 2px;
+        background-color: #62d9f0;
+        border-radius: 2px;
+        box-shadow: 6px 10px 10px 0 #8cf0ff93;
+        transition: all .4s;
+        margin-top: 4px
+    }
+
+    .menu p:active::after,
+    .menu p:hover::after {
+        height: 2px;
+        width: 60%;
+        display: block;
+        background-color: #920864;
+        box-shadow: 2px 2px 20px 0 #4e0335
+    }
+
+    header {
+        height: 550px !important
+    }
+
+    .main-logo {
+        height: 40% !important;
+        margin-top: 12px;
+        margin-left: 20px
+    }
+
+    nav {
+        height: 66px
+    }
+
+    .nav-inner {
+        display: none
+    }
+
+    .hero-section {
+        display: grid;
+        place-items: center;
+        text-align: center
+    }
+
+    .head-img {
+        display: none
+    }
+
+    .main-heading {
+        width: 88%;
+        margin: auto !important;
+        padding: 0 90px;
+        margin-left: -10px !important;
+        margin-top: -14% !important
+    }
+
+    header h1 {
+        font-size: 36px;
+        line-height: 38px
+    }
+
+    header h1 span {
+        line-height: 38px
+    }
+
+    header h1 span::after {
+        display: none
+    }
+
+    .main-heading h6 {
+        font-size: 12px;
+        margin: auto !important;
+        padding: 20px 20px 0 20px
+    }
+
+    .see-more-btn:link,
+    .see-more-btn:visited {
+        font-weight: 600;
+        padding: 10px 40px 10px 30px;
+        position: relative;
+        float: left !important;
+        margin-top: 270px !important;
+        margin-left: 23%
+    }
+
+    .see-more-btn ion-icon {
+        right: 15%;
+        top: 30%;
+        font-size: 14px
+    }
+
+    .hire-me-btn:link,
+    .hire-me-btn:visited {
+        font-weight: 600;
+        padding: 10px 40px 10px 40px;
+        float: left !important;
+        margin-left: 28%;
+        margin-top: 20px
+    }
+
+    .things-ilove-section {
+        padding-bottom: 50px
+    }
+
+    .things-ilove-section h1 {
+        margin-top: 150px !important;
+        font-size: 40px
+    }
+
+    .things-ilove-section h1::after {
+        height: 3px
+    }
+
+    .love-attract-sec {
+        margin-top: 140px
+    }
+
+    .attract-img img {
+        width: 70%;
+        margin-left: 30px
+    }
+
+    .attract-text h3 {
+        padding: 40px 0 0 20px !important
+    }
+
+    .attract-text p {
+        padding: 0 0 0 20px !important
+    }
+
+    .love-fast-sec {
+        margin-top: 140px
+    }
+
+    .fast-img img {
+        width: 84%;
+        margin-left: 40px
+    }
+
+    .fast-text h3 {
+        padding: 76px 0 0 30px !important
+    }
+
+    .fast-text p {
+        padding: 0 0 0 30px !important
+    }
+
+    .love-review-sec {
+        margin-top: 280px
+    }
+
+    .review-img img {
+        width: 76%;
+        margin-left: 30px
+    }
+
+    .review-text {
+        color: #fff;
+        text-align: left
+    }
+
+    .review-text h3 {
+        padding: 50px 0 0 20px !important
+    }
+
+    .review-text p {
+        padding: 0 0 0 20px !important
+    }
+
+    .love-Experience-sec {
+        margin-top: 150px
+    }
+
+    .Experience-img img {
+        width: 72%;
+        margin-left: 40px
+    }
+
+    .Experience-text h3 {
+        padding: 60px 0 0 30px !important
+    }
+
+    .Experience-text p {
+        padding: 0 0 0 30px !important
+    }
+
+    .about-section {
+        background-color: #a9f3ff !important;
+        margin-bottom: 0;
+        height: 650px
+    }
+
+    .about-col1 {
+        height: 650px !important;
+        background-image: url(../../resources/img/software-developer-g176f242f9_1920.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        background-attachment: fixed
+    }
+
+    .about-col2 {
+        height: 650px !important
+    }
+
+    .profile-image {
+        width: 130px !important;
+        margin: 70px 0 0 30px
+    }
+
+    .about-col2 h1 {
+        color: #fff;
+        font-weight: bolder;
+        padding: 40px 96px 0 30px;
+        font-size: 26px
+    }
+
+    .about-col2 h5 {
+        padding: 10px 0 0 30px
+    }
+
+    .about-col2 p {
+        font-weight: bolder;
+        padding: 20px 50px 0 30px
+    }
+
+    .project-section {
+        margin-top: 200px;
+        height: 800px
+    }
+
+    .project-section h1 {
+        margin-top: 0 !important;
+        font-size: 40px;
+        margin-bottom: 50px
+    }
+
+    .project-section h1::after {
+        height: 3px
+    }
+
+    .project-col {
+        margin-bottom: 0;
+        height: 360px
+    }
+    .pr1{
+        margin-bottom: 0px;
+    }
+    .project-image-1:hover a,
+    .project-image-1:visited a {
+        padding: 10px 62% 12px 2% !important;
+        bottom: -60px;
+        margin-right: 8px
+    }
+
+    .project-image-2:hover a,
+    .project-image-2:visited a {
+        padding: 10px 62% 10px 2% !important;
+        bottom: -60px;
+        margin-right: 8px
+    }
+
+    .project-image-3:hover a,
+    .project-image-3:visited a {
+        padding: 10px 62% 10px 2% !important;
+        bottom: -60px;
+        margin-right: 8px
+    }
+
+    .project-image-4:hover a,
+    .project-image-4:visited a {
+        padding: 10px 62% 10px 2% !important;
+        bottom: -60px;
+        margin-right: 8px
+    }
+
+    .project-image-5:hover a,
+    .project-image-5:visited a {
+        padding: 10px 62% 10px 2% !important;
+        bottom: -60px;
+        margin-right: 8px
+    }
+
+    .project-image-6:hover a,
+    .project-image-6:visited a {
+        padding: 10px 62% 10px 2% !important;
+        bottom: -60px;
+        margin-right: 8px
+    }
+
+    .project-col a:link,
+    .project-col a:visited {
+        padding: 10px 62% 10px 2% !important;
+        bottom: 0;
+        right: 6px
+    }
+
+    .project-col ion-icon {
+        font-size: 20px;
+        right: 10px
+    }
+
+    .contact-section {
+        margin-top: 1000px !important;
+        margin-bottom: 300px;
+    }
+
+    .contact-section h1 {
+        font-size: 40px
+    }
+
+    .welcoming-card {
+        background: linear-gradient(to bottom, #8400ff38, rgba(0, 0, 0, .938)), url(../../resources/img/hosting3-server-bg.jpg)
+    }
+
+    .welcoming-col {
+        padding-top: 40px
+    }
+
+    .name-label {
+        top: 54px;
+        left: 45px
+    }
+
+    .name:focus~.name-label,
+    .name:not(:placeholder-shown).name:not(:focus)~.name-label {
+        font-size: 10px;
+        margin-top: -20px;
+        margin-left: -10px
+    }
+
+    .phone-number-label {
+        right: 26%;
+        top: 124px
+    }
+
+    .phone-number:focus~.phone-number-label,
+    .phone-number:not(:placeholder-shown).phone-number:not(:focus)~.phone-number-label {
+        margin-top: -20px;
+        margin-right: 4%;
+        font-size: 10px
+    }
+
+    .email-label {
+        left: 45px;
+        top: 124px
+    }
+
+    .email:focus~.email-label,
+    .email:not(:placeholder-shown).email:not(:focus)~.email-label {
+        margin-top: -20px;
+        margin-left: -10px;
+        font-size: 10px
+    }
+
+    .message:focus~.message-label,
+    .message:not(:placeholder-shown).message:not(:focus)~.message-label {
+        margin-top: -26px;
+        margin-left: -8px;
+        font-size: 10px
+    }
+
+    .form-col form button {
+        height: 40px;
+        width: 150px;
+        font-weight: 600
+    }
+
+    .footer-logo img {
+        height: 34px
+    }
+
+    .footer-logo a {
+        margin-left: 4px;
+        margin: auto !important;
+        padding-top: 36px;
+        display: none
+    }
+
+    .footer-section p {
+        margin: auto !important;
+        font-size: 12px;
+        padding-top: 40px;
+        padding-left: 40%
+    }
+
+    .footer-scrol-btn {
+        height: 38px;
+        width: 28px;
+        margin-left: 48% !important;
+        margin-top: -70px !important
+    }
+
+    .footer-up1-i {
+        font-size: 20px;
+        left: 4px;
+        top: 4px
+    }
+
+    .footer-up2-i {
+        font-size: 20px;
+        top: 12px;
+        left: 4px
+    }
+
+    .footer-scrol-btn:active .footer-up1-i,
+    .footer-scrol-btn:hover .footer-up1-i {
+        transform: translateY(-2px)
+    }
+
+    .footer-scrol-btn:active .footer-up2-i,
+    .footer-scrol-btn:hover .footer-up2-i {
+        transform: translateY(2px)
+    }
+
+    .footer-visit a:link,
+    .footer-visit a:visited {
+        font-size: 18px;
+        float: left;
+        margin-bottom: 0;
+        margin-top: 10px !important
+    }
+
+    .fb {
+        margin-right: 20px !important;
+        margin-left: 39%
+    }
+}
+
+@media only screen and (max-width:480px) {
+
+    body,
+    html {
+        font-size: 12px !important
+    }
+
+    .menu__toggler {
+        position: absolute;
+        top: 24px;
+        left: 20px;
+        z-index: 999;
+        height: 28px !important;
+        width: 28px !important;
+        outline: 0;
+        cursor: pointer;
+        display: flex;
+        align-items: center
+    }
+
+    .menu__toggler span,
+    .menu__toggler span::after,
+    .menu__toggler span::before {
+        position: absolute;
+        content: '';
+        width: 28px;
+        height: 2.5px;
+        background: #fafafa;
+        border-radius: 20px;
+        transition: .5s cubic-bezier(.77, 0, .175, 1)
+    }
+
+    .menu__toggler span::before {
+        top: -8px
+    }
+
+    .menu__toggler span::after {
+        top: 8px
+    }
+
+    .menu__toggler.active>span {
+        background: 0 0
+    }
+
+    .menu__toggler.active>span::after,
+    .menu__toggler.active>span::before {
+        background: #ffff;
+        top: 0
+    }
+
+    .menu__toggler.active>span::before {
+        -webkit-transform: rotate(-225deg);
+        transform: rotate(-225deg)
+    }
+
+    .menu__toggler.active>span::after {
+        -webkit-transform: rotate(225deg);
+        transform: rotate(225deg)
+    }
+
+    .menu {
+        position: absolute;
+        left: -350px;
+        z-index: 998;
+        color: #ffff;
+        background: linear-gradient(to bottom, rgba(170, 20, 152, 255), rgba(90, 162, 229, 255));
+        -webkit-clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
+        clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
+        width: 200px;
+        height: 100vh;
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        transition: .3s left cubic-bezier(.77, 0, .175, 1);
+        overflow: scroll !important
+    }
+
+    .menu p {
+        display: block
+    }
+
+    .menu.active {
+        left: 0
+    }
+
+    .menu p {
+        margin-bottom: 2rem;
+        float: left
+    }
+
+    .menu p a:link,
+    .menu p a:visited {
+        text-decoration: none;
+        color: #ffff;
+        font-size: 14px
+    }
+
+    .menu p::after {
+        content: " ";
+        display: block;
+        width: 80%;
+        height: 2px;
+        background-color: #62d9f0;
+        border-radius: 2px;
+        box-shadow: 6px 10px 10px 0 #8cf0ff93;
+        transition: all .4s;
+        margin-top: 4px
+    }
+
+    .menu p:active::after,
+    .menu p:hover::after {
+        height: 2px;
+        width: 60%;
+        display: block;
+        background-color: #920864;
+        box-shadow: 2px 2px 20px 0 #4e0335
+    }
+
+    header {
+        height: 700px !important
+    }
+
+    .main-logo {
+        height: 38%;
+        margin-top: 12px;
+        margin-left: 20px
+    }
+
+    nav {
+        height: 66px
+    }
+
+    .nav-inner {
+        display: none
+    }
+
+    .hero-section {
+        display: grid;
+        place-items: center;
+        text-align: center
+    }
+
+    .head-img {
+        display: none
+    }
+
+    .main-heading {
+        width: 80%;
+        padding: 0 0;
+        margin-top: -10% !important;
+        margin-left: -12px !important
+    }
+
+    header h1 {
+        font-size: 36px;
+        line-height: 38px
+    }
+
+    header h1 span {
+        line-height: 38px
+    }
+
+    header h1 span::after {
+        display: none
+    }
+
+    .main-heading h6 {
+        font-size: 12px;
+        margin: auto !important;
+        padding: 20px 0 0 0
+    }
+
+    .see-more-btn:link,
+    .see-more-btn:visited {
+        font-weight: 600;
+        padding: 10px 40px 10px 30px;
+        position: relative;
+        float: left !important;
+        margin-top: 390px !important;
+        margin-left: 23%
+    }
+
+    .see-more-btn ion-icon {
+        right: 15%;
+        top: 30%;
+        font-size: 14px
+    }
+
+    .hire-me-btn:link,
+    .hire-me-btn:visited {
+        font-weight: 600;
+        padding: 10px 40px 10px 40px;
+        float: left !important;
+        margin-left: 28%;
+        margin-top: 20px
+    }
+
+    .things-ilove-section {
+        padding-bottom: 180px
+    }
+
+    .things-ilove-section h1 {
+        margin-top: 150px;
+        font-size: 36px
+    }
+
+    .things-ilove-section h1::after {
+        margin-top: 16px
+    }
+
+    .love-attract-sec {
+        margin-top: 160px
+    }
+
+    .attract-img img {
+        height: auto;
+        width: 44%;
+        margin-left: 28%
+    }
+
+    .attract-text {
+        color: #fff;
+        text-align: center
+    }
+
+    .attract-text h3 {
+        padding: 100px 0 0 0 !important;
+        margin-top: -50px
+    }
+
+    .attract-text p {
+        padding: 10px 40px 0 40px !important
+    }
+
+    .love-fast-sec {
+        margin-top: 100px
+    }
+
+    .fast-img img {
+        height: auto;
+        width: 58%;
+        margin-left: 24%
+    }
+
+    .fast-text {
+        color: #fff;
+        text-align: center
+    }
+
+    .fast-text h3 {
+        padding: 160px 0 0 0 !important
+    }
+
+    .fast-text p {
+        padding: 0 40px 0 40px !important
+    }
+
+    .love-review-sec {
+        margin-top: 240px
+    }
+
+    .review-img img {
+        height: auto;
+        width: 52%;
+        margin-left: 26%
+    }
+
+    .review-text {
+        color: #fff;
+        text-align: center
+    }
+
+    .review-text h3 {
+        padding: 130px 0 0 0 !important;
+        margin-top: -90px
+    }
+
+    .review-text p {
+        padding: 0 40px 0 40px !important
+    }
+
+    .love-Experience-sec {
+        margin-top: 150px
+    }
+
+    .Experience-img img {
+        height: auto;
+        width: 52%;
+        margin-left: 24%;
+        margin-top: 40px;
+        margin-bottom: 60px
+    }
+
+    .Experience-text {
+        color: #fff;
+        text-align: center
+    }
+
+    .Experience-text h3 {
+        padding: 120px 0 0 0 !important
+    }
+
+    .Experience-text p {
+        padding: 0 42px 0 42px !important
+    }
+
+    .about-section {
+        height: 600px !important
+    }
+
+    .about-col1 {
+        height: 600px !important;
+        background-position: center;
+        background-size: cover
+    }
+
+    .about-col2 {
+        height: 600px !important
+    }
+
+    .profile-image {
+        height: auto;
+        width: 150px;
+        margin: 46px 0 0 30px
+    }
+
+    .about-col2 h1 {
+        padding: 40px 50px 0 30px
+    }
+
+    .about-col2 p {
+        color: #fff;
+        font-weight: 400;
+        padding: 30px 80px 0 30px
+    }
+
+    .project-section {
+        height: 1200px;
+        margin-top: 800px
+    }
+
+    .project-section h1 {
+        font-size: 36px
+    }
+
+    .project-col {
+        margin-bottom: 0
+    }
+
+    .pr1{
+        margin-bottom: 10px !important;
+    }
+
+    .project-col a:link,
+    .project-col a:visited {
+        padding: 10px 0 10px 0;
+        bottom: 0;
+        right: 0;
+        display: none
+    }
+
+    .project-col ion-icon {
+        font-size: 24px;
+        right: 8px
+    }
+
+    .project-image-1:hover a,
+    .project-image-1:visited a {
+        bottom: -2px;
+        padding: 10px 0 10px 2%;
+        width: 95%;
+        display: block
+    }
+
+    .project-image-2:hover a,
+    .project-image-2:visited a {
+        bottom: -2px;
+        padding: 10px 0 10px 2%;
+        width: 95%;
+        display: block
+    }
+
+    .project-image-3:hover a,
+    .project-image-3:visited a {
+        bottom: -2px;
+        padding: 10px 0 10px 2%;
+        width: 95%;
+        display: block
+    }
+
+    .project-image-4:hover a,
+    .project-image-4:visited a {
+        bottom: -2px;
+        padding: 10px 0 10px 2%;
+        width: 95%;
+        display: block
+    }
+
+    .project-image-5:hover a,
+    .project-image-5:visited a {
+        bottom: -2px;
+        padding: 10px 0 10px 2%;
+        width: 95%;
+        display: block
+    }
+
+    .project-image-6:hover a,
+    .project-image-6:visited a {
+        bottom: -2px;
+        padding: 10px 0 10px 2%;
+        width: 95%;
+        display: block
+    }
+
+
+    .contact-section {
+        background: 0 0;
+    }
+
+    .contact-section {
+        margin-top: 1400px !important;
+    }
+
+    .contact-section h1 {
+        font-size: 36px
+    }
+
+    .contact-section h1::after {
+        margin-top: 14px !important
+    }
+
+    .welcoming-col {
+        padding-top: 40px
+    }
+
+    .welcoming-card {
+        height: 400px;
+        background: linear-gradient(to bottom, rgba(0, 0, 0, .21), rgba(0, 0, 0, .938)), url(../../resources/img/hosting3-server-bg.jpg);
+        background-size: cover;
+        background-position: left
+    }
+
+    .name-label {
+        top: 54px;
+        left: 42px
+    }
+
+    .name:focus~.name-label,
+    .name:not(:placeholder-shown).name:not(:focus)~.name-label {
+        margin-top: -20px;
+        margin-left: -8px;
+        font-size: 10px
+    }
+
+    .phone-number-label {
+        right: 18%;
+        top: 124px
+    }
+
+    .phone-number:focus~.phone-number-label,
+    .phone-number:not(:placeholder-shown).phone-number:not(:focus)~.phone-number-label {
+        margin-top: -20px;
+        margin-right: 14px;
+        font-size: 10px
+    }
+
+    .email-label {
+        left: 42px;
+        top: 124px
+    }
+
+    .email:focus~.email-label,
+    .email:not(:placeholder-shown).email:not(:focus)~.email-label {
+        margin-top: -20px;
+        margin-left: -8px;
+        font-size: 10px
+    }
+
+    .message:focus~.message-label,
+    .message:not(:placeholder-shown).message:not(:focus)~.message-label {
+        margin-top: -26px;
+        margin-left: -6px;
+        font-size: 10px
+    }
+
+    .form-col form button {
+        height: 38px;
+        width: 130px;
+        font-weight: 600
+    }
+
+    .footer-logo {
+        text-align: center
+    }
+
+    .footer-section p {
+        color: rgba(0, 194, 248, .5);
+        margin: 0 !important;
+        margin-left: -16px !important
+    }
+
+    .footer-scrol-btn {
+        height: 38px;
+        width: 28px;
+        margin-left: 48% !important;
+        margin-top: -70px !important
+    }
+
+    .footer-up1-i {
+        font-size: 20px;
+        left: 4px;
+        top: 4px
+    }
+
+    .footer-up2-i {
+        font-size: 20px;
+        top: 12px;
+        left: 4px
+    }
+
+    .footer-scrol-btn:active .footer-up1-i,
+    .footer-scrol-btn:hover .footer-up1-i {
+        transform: translateY(-2px)
+    }
+
+    .footer-scrol-btn:active .footer-up2-i,
+    .footer-scrol-btn:hover .footer-up2-i {
+        transform: translateY(2px)
+    }
+
+    .footer-visit {
+        text-align: center !important
+    }
+
+    .footer-visit a:link,
+    .footer-visit a:visited {
+        font-size: 18px;
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-right: 10px;
+        text-decoration: none;
+        color: #54c8dfbd
+    }
+
+    .footer-visit a:active,
+    .footer-visit a:hover {
+        color: #f500a3e7
+    }
+
+    .fb {
+        margin-right: 10px !important
+    }
+}
