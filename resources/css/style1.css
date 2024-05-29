@@ -3475,6 +3475,7 @@ header {
     background-position: center;
     height: 102vh;
     overflow: hidden;
+    position: relative;
 }
 
 .head-img {
